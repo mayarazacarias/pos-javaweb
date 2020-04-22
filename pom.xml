@@ -22,6 +22,12 @@
         <junit.version>5.5.1</junit.version>
         <io.springfox.version>2.9.2</io.springfox.version>
         <modelmapper.version>2.3.0</modelmapper.version>
+             
+             <sonar.projectKey>mayarazacarias_pos-javaweb</sonar.projectKey>
+                  <sonar.organization>mayarazacarias</sonar.organization>
+                   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                   <sonar.login>2e8c9a4212a19a2d5a8cea8350fcbd994b567b2c</sonar.login>
+              
     </properties>
 
     <dependencies>
